@@ -1,0 +1,15 @@
+Ciao,
+
+Un nuovo ticket di supporto è stato spostato nella tua categoria. Dettagli del ticket:
+
+Oggetto del ticket: %%SUBJECT%%
+Tracking ID: %%TRACK_ID%%
+
+Puoi gestire questo ticket qui:
+%%TRACK_URL%%
+
+
+Saluti,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

@@ -1,0 +1,12 @@
+Ciao,
+
+Un cliente ha appena risposto al ticket "%%SUBJECT%%".
+
+Puoi gestire questo ticket qui:
+%%TRACK_URL%%
+
+
+Saluti,
+
+%%SITE_TITLE%%
+%%SITE_URL%%
