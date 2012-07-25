@@ -3,7 +3,7 @@
 * Language file for Help Desk Software HESK (www.hesk.com)
 * Language: ITALIANO
 * Version: 2.4 RC
-* Author: Klemen Stirn (http://www.hesk.com)
+* Author: Mattia Palugan (http://www.matriz.it & http://www.argonavis.it) - 2.3 values by Pierluigi Montinaro (http://www.pixelfabrica.it)
 *
 * ! This file must be saved in UTF-8 encoding without byte order mark (BOM) !
 */
