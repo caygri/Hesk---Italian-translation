@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 * Language file for Help Desk Software HESK (www.hesk.com)
 * Language: ITALIANO
@@ -1093,7 +1093,7 @@ $hesklang['email_noreply']='Email del mittente';
 $hesklang['email_name']='Nome del mittente';
 $hesklang['vscl']='Limiti della configurazione del server';
 $hesklang['fnuscphp']='Il file non è stato caricato, prova con uno più piccolo o senza allegato.';
-$hesklang['redv']='reset default view';
+$hesklang['redv']='ripristina la vista di default';
 $hesklang['fatte1']='La tua impostazione degli allegati &quot;Numero per post&quot; è più grande di quello che permette il tuo server!';
 $hesklang['fatte2']='La dimensione massima degi file allegati è più grande di quello che permette il tuo server!';
 $hesklang['fatte3']='Il tuo server non permette i post così grandi, prova a ridurre il numero degli allegati o la dimensione massima dei file!';
