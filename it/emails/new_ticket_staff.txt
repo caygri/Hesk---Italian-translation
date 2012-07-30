@@ -1,6 +1,6 @@
 Ciao,
 
-Un nuovo ticket di supporto è stato inviato. Dettagli del ticket:
+Un nuovo ticket di supporto Ã¨ stato inviato. Dettagli del ticket:
 
 Oggetto del ticket: %%SUBJECT%%
 Tracking ID: %%TRACK_ID%%

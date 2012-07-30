@@ -1,6 +1,6 @@
 Ciao,
 
-Ti è stato assegnato un nuovo ticket di supporto. Dettagli del ticket:
+Ti Ã¨ stato assegnato un nuovo ticket di supporto. Dettagli del ticket:
 
 Oggetto del ticket: %%SUBJECT%%
 Tracking ID: %%TRACK_ID%%

@@ -1,6 +1,6 @@
 Ciao,
 
-Una nuova nota è stata aggiunta al ticket "%%SUBJECT%%" che è attualmente assegnato a te.
+Una nuova nota Ã¨ stata aggiunta al ticket "%%SUBJECT%%" che Ã¨ attualmente assegnato a te.
 
 
 Nota di %%NAME%%:
