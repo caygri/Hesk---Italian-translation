@@ -1,4 +1,4 @@
-Caro %%NAME%%,
+Gentile %%NAME%%,
 
 Il nostro staff ha appena risposto al tuo ticket "%%SUBJECT%%".
 

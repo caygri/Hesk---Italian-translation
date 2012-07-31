@@ -1,4 +1,4 @@
-Caro %%NAME%%,
+Gentile %%NAME%%,
 
 Il tuo ticket di supporto "%%SUBJECT%%" è stato inviato.
 

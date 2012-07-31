@@ -1,4 +1,4 @@
-Caro %%NAME%%,
+Gentile %%NAME%%,
 
 Questa email contiene un elenco dei ticket di supporto inviati con il tuo indirizzo email. Numero di ticket trovati: %%NUM%%
 
